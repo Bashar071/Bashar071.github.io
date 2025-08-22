@@ -14,7 +14,7 @@ This portfolio is designed to:
 
 Showcase projects that solve real-world problems
 
-Highlight my skills in AI, web development, and product building
+Highlight my skills in AI, web development, Creative Media
 
 Present my journey toward building AI-driven solutions.
 
